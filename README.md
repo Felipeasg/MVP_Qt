@@ -7,9 +7,11 @@ Isolating VIEW of DATA and application LOGIC.
 
 # To compile and execute
 
+```bash
 $ git clone https://github.com/Felipeasg/MVP_Qt.git
 $ cd MVP_Qt
 $ mkdir build && cd build
 $ qmake ..
 $ make
 $ ./MVP_test
+```
